@@ -3,6 +3,22 @@
 
 
 
+# `💝 Total: 0051 💝`
+
+
+| Easy | Medium | Hard |
+| :--: | :----: | :--: |
+| 000  |  000   | 000  |
+
+# status of problems
+
+
+| Easy to handle | Hard to handle | I don't have idea need to learn concepts |
+| :------------: | :------------: | :--------------------------------------: |
+|      000     |      000     |                   000                 |
+
+
+
 
 # `Daily Learning Tracker`
 
