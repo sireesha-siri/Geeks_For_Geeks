@@ -14,9 +14,9 @@
 # `💝 Total: 0000 💝`
 
 
-| Easy | Medium | Hard |
-| :--: | :----: | :--: |
-| 000  |  000   | 000  |
+| School | Basic | Easy | Medium | Hard |
+| :--:   | :----: | :--: | :--: | :--: |
+|   024  |  036   | 000  | 000  | 000  |
 
 # status of problems
 
@@ -35,4 +35,4 @@
 | :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-----------------------------------------------------------------------------------------------: | :--------: | :------: | :--------------------------------------------------------------------------------: |
 |  25/07/2023 -Day 001  |  Sum of series  |  01 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_series.py)  |  School  |  💚  |  Includes mathematical formula  |
 |  29/07/2023 -Day 002  |  Value equal to index  |  02 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Value_equal_to_index.py)  |  School  |  💚  |  Comparing index position  |
-|  29/07/2023 -Day 002  |  Print alternative elements of an array |  03 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_alternate_elements_of_an_array.py)  |  School  |  💚  |  Print number by leaving one space  |
+|  29/07/2023 -Day 002  |  Print alternative elements of an array |  03 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_alternate_elements_of_an_array.py)  |  School  |  💚  |  Print numbers alternatively  |
