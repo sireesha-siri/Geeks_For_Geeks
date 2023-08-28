@@ -20,7 +20,7 @@
 
 # `✨ Overall Score: 0036 ✨`
 
-# status of problems
+# `🏃🏃🏃 Status of Problems`
 
 
 | Easy to handle | Hard to handle | I don't have idea need to learn concepts |
