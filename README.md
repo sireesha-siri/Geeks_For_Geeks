@@ -1,22 +1,24 @@
-# Geeks_For_Geeks
+# `🌟 Geeks_For_Geeks 🌟`
 
 
 
 |                   Okay Easy to Handle                   |                          Need to Understand                          | I Don't know learn more |
 | :------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------: |
-|                            💚                            |                                  😡                                  |           💔           |
+|                            💚                            |                                  😢                                  |           😔           |
 | [GFG](https://auth.geeksforgeeks.org/user/) | [Geeks For Geeks](https://auth.geeksforgeeks.org/user/) |       For basics       |
 |          [LC](https://leetcode.com//)          |             [LeetCode](https://leetcode.com//)             |     DSA preparation     |
 |    [HacR](https://www.hackerrank.com?=1)    |        [HackerRank](https://www.hackerrank.com/?hr_r=1)        |        Exploring        |
 
 
 
-# `💝 Total: 0000 💝`
+# `💝 Total: 0060 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
 | :--:   | :----: | :--: | :--: | :--: |
 |   024  |  036   | 000  | 000  | 000  |
+
+# `✨ Overall Score: 0036 ✨`
 
 # status of problems
 
