@@ -34,12 +34,9 @@
 
 |        Date        |                                                                                               Question                                                                                               |    Platform    |                                             Solution                                             | Difficulty | Reaction |                                    Description                                    |
 | :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-----------------------------------------------------------------------------------------------: | :--------: | :------: | :--------------------------------------------------------------------------------: |
-|  25/07/2023 -Day 001  |  Sum of series  |  01 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_series.py)  |  School  |  💚  |  Includes mathematical formula  
-|
-|  29/07/2023 -Day 002  |  Value equal to index  |  02 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Value_equal_to_index.py)  |  School  |  💚  |  Comparing index position  
-|
-|  29/07/2023 -Day 002  |  Print alternative elements of an array |  03 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_alternate_elements_of_an_array.py)  |  School  |  💚  |  Print numbers alternatively  
-|
+|  25/07/2023 -Day 001  |  Sum of series  |  01 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_series.py)  |  School  |  💚  |  Includes mathematical formula  |
+|  29/07/2023 -Day 002  |  Value equal to index  |  02 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Value_equal_to_index.py)  |  School  |  💚  |  Comparing index position  |
+|  29/07/2023 -Day 002  |  Print alternative elements of an array |  03 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_alternate_elements_of_an_array.py)  |  School  |  💚  |  Print numbers alternatively  |
 |  29/07/2023 -Day 002  |  Palindromic array |  04 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Palindromic_array.py)  |  School  |  💚  |  Array must contain palindrome numbers  
 |
 
