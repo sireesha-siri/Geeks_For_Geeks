@@ -41,6 +41,7 @@
 |  29/07/2023 -Day 002  |  Arrays (Sum of arrays) |  05 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Arrays(Sum_of_array).py)  |  School  |  💚  |  Sum of elements present in the array  | 
 |  29/07/2023 -Day 002  |  Count of smaller elements |  05 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Count_of_smaller_elements.py)  |  School  |  💚  |  Elements which are at most the given value  |
 |  29/07/2023 -Day 002  |  Sum of array |  06 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_array.py)  |  School  |  💚  |  Finding sum of elements  |
+|  29/07/2023 -Day 002  |  Print elements of array |  04 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_elements_of_array.py)  |  School  |  💚  |  Displaying the elements  |
 
 
 # `✨ Overall Score: 0036 ✨`
