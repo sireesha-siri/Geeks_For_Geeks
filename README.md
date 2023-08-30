@@ -39,7 +39,7 @@
 |  29/07/2023 -Day 002  |  Print alternative elements of an array |  03 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_alternate_elements_of_an_array.py)  |  School  |  💚  |  Print numbers alternatively  |
 |  29/07/2023 -Day 002  |  Palindromic array |  04 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Palindromic_array.py)  |  School  |  💚  |  Array must contain palindrome numbers  |
 |  29/07/2023 -Day 002  |  Arrays (Sum of arrays) |  05 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Arrays(Sum_of_array).py)  |  School  |  💚  |  Sum of elements present in the array  | 
-
+|  29/07/2023 -Day 002  |  Count of smaller elements |  04 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Count_of_smaller_elements.py)  |  School  |  💚  |  Elements which are at most the given value  |
 
 
 # `✨ Overall Score: 0036 ✨`
