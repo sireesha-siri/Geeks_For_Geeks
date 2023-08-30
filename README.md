@@ -43,6 +43,7 @@
 |  29/07/2023 -Day 002  |  Sum of array |  07 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_array.py)  |  School  |  💚  |  Finding sum of elements  |
 |  29/07/2023 -Day 002  |  Print elements of array |  08 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_elements_of_array.py)  |  School  |  💚  |  Displaying the elements  |
 |  29/07/2023 -Day 002  |  Display longest name |  09 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Display_longest_name.py)  |  School  |  💚  |  Display longest name among the array  |
+|  30/07/2023 -Day 002  |  Palindromic array |  10 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/C++_Array(print_an_element).py)  |  School  |  💚  |  Print the elements present at the given index  |
 
 
 # `✨ Overall Score: 0036 ✨`
