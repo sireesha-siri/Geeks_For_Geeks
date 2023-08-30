@@ -47,5 +47,6 @@
 |  30/07/2023 -Day 003  |  Smaller and larger |  11 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Smaller_and_larger.py)  |  School  |  💚  |  Display the number which is greater and less than the given number  |
 |  3/08/2023 -Day 004  |  Check for binary |  12 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Check_for_binary.py)  |  School  |  💚  |  Checking the sequence whether it is binary or not  |
 |  3/08/2023 -Day 004  |  Remove spaces |  13 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Remove_spaces.py)  |  School  |  💚  |  Remove spaces from the given sequence and join the words  |
+|  3/08/2023 -Day 004  |  Remove spaces |  14 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Convert_string_to_lower.py)  |  School  |  💚  |  Convert characters to lower case  |
 
 # `✨ Overall Score: 0036 ✨`
