@@ -48,5 +48,6 @@
 |  3/08/2023 -Day 004  |  Check for binary |  12 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Check_for_binary.py)  |  School  |  💚  |  Checking the sequence whether it is binary or not  |
 |  3/08/2023 -Day 004  |  Remove spaces |  13 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Remove_spaces.py)  |  School  |  💚  |  Remove spaces from the given sequence and join the words  |
 |  3/08/2023 -Day 004  |  Remove spaces |  14 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Convert_string_to_lower.py)  |  School  |  💚  |  Convert characters to lower case  |
+|  3/08/2023 -Day 004  |  Reverse a string |  15 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Reverse_string.py)  |  School  |  💚  |  Reverse the order of the string |
 
 # `✨ Overall Score: 0036 ✨`
