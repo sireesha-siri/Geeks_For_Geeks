@@ -19,7 +19,7 @@
 |   035  |  038   | 000  | 000  | 000  |
 
 
-# `🏃🏃🏃 Status of Problems`
+# `🏃🏃🏃 Status of Problems Solving`
 
 
 | Monthly Coding Score |
