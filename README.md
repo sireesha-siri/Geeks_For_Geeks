@@ -11,20 +11,20 @@
 
 
 
-# `💝 Total: 0060 💝`
+# `💝 Total: 0073 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
 | :--:   | :----: | :--: | :--: | :--: |
-|   024  |  036   | 000  | 000  | 000  |
+|   035  |  038   | 000  | 000  | 000  |
 
 
 # `🏃🏃🏃 Status of Problems`
 
 
-| Easy to handle | Hard to handle | I don't have idea need to learn concepts |
-| :------------: | :------------: | :--------------------------------------: |
-|      000     |      000     |                   000                 |
+| Monthly Coding Score |
+| :------------------: |
+|      002     |
 
 
 
