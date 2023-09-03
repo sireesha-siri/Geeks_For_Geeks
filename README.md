@@ -11,7 +11,7 @@
 
 
 
-# `💝 Total: 0073 💝`
+# `💝 Total: 0074 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
@@ -24,7 +24,7 @@
 
 | Monthly Coding Score |
 | :------------------: |
-|      002     |
+|      003     |
 
 
 
@@ -52,4 +52,4 @@
 |  3/08/2023 -Day 004  |  Convert string to lower case |  16 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Convert_string_to_lower.py)  |  School  |  💚  |  Convert characters to lower case |
 |  3/08/2023 -Day 004  |  Perfect Arrays |  17 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Perfect_arrays.py)  |  School  |  💚  |  Reverse the array and compare with the previous whether it is perfect or not |
 
-# `✨ Overall Score: 0038 ✨`
+# `✨ Overall Score: 0039 ✨`
