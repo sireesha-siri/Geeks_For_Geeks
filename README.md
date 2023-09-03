@@ -51,5 +51,6 @@
 |  3/08/2023 -Day 004  |  Reverse a string |  15 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Reverse_string.py)  |  School  |  💚  |  Reverse the order of the string |
 |  3/08/2023 -Day 004  |  Convert string to lower case |  16 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Convert_string_to_lower.py)  |  School  |  💚  |  Convert characters to lower case |
 |  3/08/2023 -Day 004  |  Perfect Arrays |  17 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Perfect_arrays.py)  |  School  |  💚  |  Reverse the array and compare with the previous whether it is perfect or not |
+|  3/08/2023 -Day 004  |  At least two greater elements |  18 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Atleast_two_greater_elements.py)  |  School  |  💚  |  Display all the elements in the sorted form except two greater elements |
 
 # `✨ Overall Score: 0039 ✨`
