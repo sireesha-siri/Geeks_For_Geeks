@@ -16,7 +16,7 @@
 
 | School | Basic | Easy | Medium | Hard |
 | :--:   | :----: | :--: | :--: | :--: |
-|   035  |  038   | 000  | 000  | 000  |
+|   035  |  039   | 000  | 000  | 000  |
 
 
 # `🏃🏃🏃 Status of Problems Solving`
