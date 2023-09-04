@@ -53,6 +53,6 @@
 |  3/08/2023 -Day 004  |  Perfect Arrays |  17 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Perfect_arrays.py)  |  School  |  💚  |  Reverse the array and compare with the previous whether it is perfect or not |
 |  3/08/2023 -Day 004  |  At least two greater elements |  18 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Atleast_two_greater_elements.py)  |  School  |  💚  |  Display all the elements in the sorted form except two greater elements |
 |  5/08/2023 -Day 005  |  Compete the skills |  19 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Compete_the_skills.py)  |  School  |  💚  |  Compare skills and and give score |
-|  5/08/2023 -Day 005  |  Average in a stream |  20 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Atleast_two_greater_elements.py)  |  School  |  💚  |  Display all the elements in the sorted form except two greater elements |
+|  5/08/2023 -Day 005  |  Average in a stream |  20 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Average_in_a_stream.py)  |  School  |  💚  |  Find average at every point |
 
 # `✨ Overall Score: 0039 ✨`
