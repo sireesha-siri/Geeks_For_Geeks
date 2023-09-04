@@ -54,5 +54,6 @@
 |  3/08/2023 -Day 004  |  At least two greater elements |  18 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Atleast_two_greater_elements.py)  |  School  |  💚  |  Display all the elements in the sorted form except two greater elements |
 |  5/08/2023 -Day 005  |  Compete the skills |  19 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Compete_the_skills.py)  |  School  |  💚  |  Compare skills and and give score |
 |  5/08/2023 -Day 005  |  Average in a stream |  20 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Average_in_a_stream.py)  |  School  |  💚  |  Find average at every point |
+|  5/08/2023 -Day 005  |  Fascinating numbers |  21 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Fascinating_number.py)  |  School  |  💚  |  Compare whether the number after performing all the operations between 1 and 9 |
 
 # `✨ Overall Score: 0039 ✨`
