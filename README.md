@@ -56,5 +56,7 @@
 |  5/08/2023 -Day 005  |  Average in a stream |  20 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Average_in_a_stream.py)  |  School  |  💚  |  Find average at every point |
 |  5/08/2023 -Day 005  |  Fascinating numbers |  21 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Fascinating_number.py)  |  School  |  💚  |  Compare whether the number after performing all the operations between 1 and 9 |
 |  5/08/2023 -Day 005  |  Print the left element |  22 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Print_the_left_element.py)  |  School  |  💚  |  Display the elements after eliminating the numbers based on the given condition |
+|  5/08/2023 -Day 005  |  Find index |  23 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Find_index.py)  |  School  |  💚  |  Find start and end index |
+
 
 # `✨ Overall Score: 0039 ✨`
