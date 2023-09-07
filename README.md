@@ -11,12 +11,12 @@
 
 
 
-# `💝 Total: 0074 💝`
+# `💝 Total Problems Solved: 0077 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
 | :--:   | :----: | :--: | :--: | :--: |
-|   035  |  039   | 000  | 000  | 000  |
+|   035  |  042   | 000  | 000  | 000  |
 
 
 # `🏃🏃🏃 Status of Problems Solving`
@@ -24,7 +24,7 @@
 
 | Monthly Coding Score |
 | :------------------: |
-|      003     |
+|      006     |
 
 
 
@@ -57,7 +57,7 @@
 |  5/08/2023 -Day 005  |  Fascinating numbers |  21 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Fascinating_number.py)  |  School  |  💚  |  Compare whether the number after performing all the operations between 1 and 9 |
 |  5/08/2023 -Day 005  |  Print the left element |  22 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Print_the_left_element.py)  |  School  |  💚  |  Display the elements after eliminating the numbers based on the given condition |
 |  5/08/2023 -Day 005  |  Find index |  23 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Find_index.py)  |  School  |  💚  |  Find start and end index |
-|  5/08/2023 -Day 005  |  Sum of array elements |  24 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Sum_of_array_elements.py)  |  School  |  💚  |  Print sum of elements of an array |
+|  8/08/2023 -Day 006  |  Sum of array elements |  24 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Sum_of_array_elements.py)  |  School  |  💚  |  Print sum of elements of an array |
 
 
-# `✨ Overall Score: 0039 ✨`
+# `✨ Overall Score: 0042 ✨`
