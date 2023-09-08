@@ -59,7 +59,7 @@
 |  5/08/2023 -Day 005  |  Find index |  23 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Find_index.py)  |  School  |  💚  |  Find start and end index |
 |  5/08/2023 -Day 005  |  Reverse array in groups |  24 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Reverse_array_in_groups.py)  |  School  |  💚  |  Reverse the sub arrays and  |
 |  6/08/2023 -Day 006  |  Check if two arrays are equal or not |  25 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/Array_Basic/Check_if_two_arrays_are_equal_or_not.py)  |  School  |  💚  |  Compare the two arrays for equality  |
-|  6/08/2023 -Day 006  |  Search an element in an array |  26 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/Array_Basic/Check_if_two_arrays_are_equal_or_not.py)  |  School  |  💚  |  Search whether the element is present or not  |
+|  6/08/2023 -Day 006  |  Search an element in an array |  26 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/Array_Basic/Search_an_element_in_an_array.py)  |  School  |  💚  |  Search whether the element is present or not  |
 |  8/08/2023 -Day 007  |  Sum of array elements |  24 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_array_elements.py)  |  School  |  💚  |  Print sum of elements of an array |
 
 
