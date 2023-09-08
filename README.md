@@ -59,6 +59,7 @@
 |  5/08/2023 -Day 005  |  Reverse array in groups |  23 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_Basic/Reverse_array_in_groups.py)  |  School  |  💚  |  Reverse the sub arrays and  |
 |  6/08/2023 -Day 006  |  Check if two arrays are equal or not |  24 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/Array_Basic/Check_if_two_arrays_are_equal_or_not.py)  |  School  |  💚  |  Compare the two arrays for equality  |
 |  6/08/2023 -Day 006  |  Search an element in an array |  25 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/Array_Basic/Search_an_element_in_an_array.py)  |  School  |  💚  |  Search whether the element is present or not  |
+|  6/08/2023 -Day 006  |  Cyclically rotate an array by one |  26 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/Array_Basic/Cyclically_rotate_an_array_by_one.py)  |  School  |  💚  |  Rotate the array by one position in clock-wise direction  |
 |  8/08/2023 -Day 007  |  Sum of array elements |  26 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_array_elements.py)  |  School  |  💚  |  Print sum of elements of an array |
 
 
