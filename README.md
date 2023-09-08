@@ -64,6 +64,7 @@
 |  6/08/2023 -Day 006  |  Largest element in array |  28 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_Basic/Largest_element_in_array.py)  |  School  |  💚  |  Find the largest element  |
 |  6/08/2023 -Day 006  |  Maximize sum(arr[i]*i) of an array |  29 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_Basic/Maximize_sum_array.py)  |  School  |  💚  |  Find maximum value  |
 |  6/08/2023 -Day 006  |  Immediate smaller element |  30 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_Basic/Immediate_smaller_element.py)  |  School  |  💚  |  Update the current index element  |
+|  6/08/2023 -Day 006  |  First element to occur k times |  31 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_Basic/First_element_to_occur_k_times.py)  |  School  |  💚  |  The first element that occurs at least K number of times  |
 |  8/08/2023 -Day 007  |  Sum of array elements |  26 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_array_elements.py)  |  School  |  💚  |  Print sum of elements of an array |
 
 
