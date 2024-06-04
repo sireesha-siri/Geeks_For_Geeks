@@ -9,12 +9,12 @@
 
 
 
-# `💝 🏃 Total Problems Solved: 0077 🏃 💝`
+# `💝 🏃 Total Problems Solved: 00 🏃 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
 | :--:   | :----: | :--: | :--: | :--: |
-|   035  |  042   | 000  | 000  | 000  |
+|   000  |  001  | 000  | 000  | 000  |
 
 
 
@@ -23,7 +23,7 @@
 
 |        Date        |                                                                                               Question                                                                                               |    Topic    |                                             Solution                                             | Difficulty | Reaction |                                    Description                                    |
 | :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-----------------------------------------------------------------------------------------------: | :--------: | :------: | :--------------------------------------------------------------------------------: |
-|  25/07/2023 -Day 001  |  Sum of series  |  01 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_series.py)  |  School  |  💚  |  Includes mathematical formula  |
+|  04/06/24 -Day 001  |  Absolute Value  |  Mathematics  |  [Solution](1. Mathematics\Absolute_Value.py)  |  Basic  |  💚  |  Includes mathematical formula  |
 |  29/07/2023 -Day 002  |  Value equal to index  |  02 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Value_equal_to_index.py)  |  School  |  💚  |  Comparing index position  |
 
 
