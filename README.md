@@ -5,9 +5,9 @@
 |                   Okay Easy to Handle                   |                          Need to Understand                          | I Don't know learn more |
 | :------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------: |
 |                            💚                            |                                  😢                                  |           😔           |
-| [GFG](https://auth.geeksforgeeks.org/user/) | [Geeks For Geeks](https://auth.geeksforgeeks.org/user/) |       For basics       |
+<!-- | [GFG](https://auth.geeksforgeeks.org/user/) | [Geeks For Geeks](https://auth.geeksforgeeks.org/user/) |       For basics       |
 |          [LC](https://leetcode.com//)          |             [LeetCode](https://leetcode.com//)             |     DSA preparation     |
-|    [HacR](https://www.hackerrank.com?=1)    |        [HackerRank](https://www.hackerrank.com/?hr_r=1)        |        Exploring        |
+|    [HacR](https://www.hackerrank.com?=1)    |        [HackerRank](https://www.hackerrank.com/?hr_r=1)        |        Exploring        | -->
 
 
 
@@ -19,12 +19,12 @@
 |   035  |  042   | 000  | 000  | 000  |
 
 
-# `🏃🏃🏃 Status of Problems Solving`
+<!-- # `🏃🏃🏃 Status of Problems Solving`
 
 
 | Monthly Coding Score |
 | :------------------: |
-|      006     |
+|      006     | -->
 
 
 
@@ -32,11 +32,14 @@
 # `💪 Daily Learning Tracker 👏`
 
 
-|        Date        |                                                                                               Question                                                                                               |    Platform    |                                             Solution                                             | Difficulty | Reaction |                                    Description                                    |
+|        Date        |                                                                                               Question                                                                                               |    Topic    |                                             Solution                                             | Difficulty | Reaction |                                    Description                                    |
 | :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :-----------------------------------------------------------------------------------------------: | :--------: | :------: | :--------------------------------------------------------------------------------: |
 |  25/07/2023 -Day 001  |  Sum of series  |  01 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Sum_of_series.py)  |  School  |  💚  |  Includes mathematical formula  |
+
 |  29/07/2023 -Day 002  |  Value equal to index  |  02 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Value_equal_to_index.py)  |  School  |  💚  |  Comparing index position  |
+
 |  29/07/2023 -Day 002  |  Print alternative elements of an array |  03 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Print_alternate_elements_of_an_array.py)  |  School  |  💚  |  Print numbers alternatively  |
+
 |  29/07/2023 -Day 002  |  Palindromic array |  04 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Palindromic_array.py)  |  School  |  💚  |  Array must contain palindrome numbers  |
 |  29/07/2023 -Day 002  |  Arrays (Sum of arrays) |  05 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Arrays(Sum_of_array).py)  |  School  |  💚  |  Sum of elements present in the array  | 
 |  29/07/2023 -Day 002  |  Count of smaller elements |  06 GFG  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/Array_School/Count_of_smaller_elements.py)  |  School  |  💚  |  Elements which are at most the given value  |
