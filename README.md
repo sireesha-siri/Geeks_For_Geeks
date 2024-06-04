@@ -9,7 +9,7 @@
 
 
 
-# `💝 🏃🏃🏃 Total Problems Solved: 0077 🏃🏃🏃 💝`
+# `💝 🏃 Total Problems Solved: 0077 🏃 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
