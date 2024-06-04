@@ -5,27 +5,16 @@
 |                   Okay Easy to Handle                   |                          Need to Understand                          | I Don't know learn more |
 | :------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------: |
 |                            💚                            |                                  😢                                  |           😔           |
-<!-- | [GFG](https://auth.geeksforgeeks.org/user/) | [Geeks For Geeks](https://auth.geeksforgeeks.org/user/) |       For basics       |
-|          [LC](https://leetcode.com//)          |             [LeetCode](https://leetcode.com//)             |     DSA preparation     |
-|    [HacR](https://www.hackerrank.com?=1)    |        [HackerRank](https://www.hackerrank.com/?hr_r=1)        |        Exploring        | -->
 
 
 
-# `💝 Total Problems Solved: 0077 💝`
+
+# `💝 🏃🏃🏃 Total Problems Solved: 0077 🏃🏃🏃 💝`
 
 
 | School | Basic | Easy | Medium | Hard |
 | :--:   | :----: | :--: | :--: | :--: |
 |   035  |  042   | 000  | 000  | 000  |
-
-
-<!-- # `🏃🏃🏃 Status of Problems Solving`
-
-
-| Monthly Coding Score |
-| :------------------: |
-|      006     | -->
-
 
 
 
