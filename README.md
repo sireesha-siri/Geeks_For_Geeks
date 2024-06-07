@@ -31,15 +31,12 @@
 💚  |  Arithemetic operation  |
 |  04/06/24 -Day 001  |  5. Digits In Factorial  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/5.Digits_In_Factorial.py)  |  Easy  |  
 💚  |  Mathematical operation using square root |
-|  04/06/24 -Day 001  |  6. Primality Test  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/6.Primality_Test.py)  |  Easy  |  
-💚  |  Arithemetic operation  |
+|  04/06/24 -Day 001  |  6. Primality Test  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/6.Primality_Test.py)  |  Easy  |  💚  |  Arithemetic operation  |
 |  07/06/24 -Day 004  |  7. Exactly 3 Divisors  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/d3c9535ab971251639721b1538f240963f175ab4/1.%20Mathematics/7.Exactly_3_Divisors.py)  |  Easy  |  😢  |  Prime numbers who has the perfect sqaures  |
 |  04/06/24 -Day 004  |  8. GP Term  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/8.GP_Term.py)  |  Easy  |  💚  |  Mathematical Formula  |
-|  04/06/24 -Day 004  |  9. Addition Under Modulo  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/9.Addition_Under_Modulo.py)  |  Basic |  
-💚  |  Arithemetic operation  |
-|  04/06/24 -Day 004  |  10. Multiplication Under Modulo  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/10.Multiplication%20Under%20Modulo.py)  |  Basic  |  💚  |  Arithemetic operation  |
-|  04/06/24 -Day 004  |  11. Modular Multiplicative Inverse  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/11.Modular_Multiplicative_Inverse.py)  |  Easy  |  
-💚  |  Arithemetic operation  |
+|  04/06/24 -Day 004  |  9. Addition Under Modulo  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/9.Addition_Under_Modulo.py)  |  Basic |  💚  |  Arithemetic operation  |
+|  04/06/24 -Day 004  |  10. Multiplication Under Modulo  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/10.Multiplication%20Under%20Modulo.py)  |  Basic  | 💚  |  Arithemetic operation  |
+|  04/06/24 -Day 004  |  11. Modular Multiplicative Inverse  |  Mathematics  |  [Solution](https://github.com/sireesha-siri/Geeks_For_Geeks/blob/main/1.%20Mathematics/11.Modular_Multiplicative_Inverse.py)  |  Easy  |  💚  |  Arithemetic operation  |
 
 
 
